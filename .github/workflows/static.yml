@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  </style>
+  <head>
+    <title>My CV</title>
+  </head>
+  <body>
+    <a href="https://civil.kntu.ac.ir/" title="KNTU logo"><img src="Images/KNTU.png" alt="K.N toosi university of technology"></a>
+    <h1>Maani Barati</h1>
+    <p>I am a student in K.N toosi university of Technology
+    I live in tehran I love playing video games like Rainbowsix siege and Minecraft I have one sister and she names Nikki i love her and we play games too much together.
+    I love learning French and im trying to do it. Also i adore my field of study that it is civil engineering.
+    <h2>Education</h2>
+        <br>High School Diploma,
+       <br> Allameh tabatabaee School GPA=19
+       <br>
+       <br> Middle School
+        <br />
+        Allameh tabatabaee School GPA=20
+      <h2 >زبان</h2>
+    
+        <br>فارسی:عالی
+        <br>انگلیسی: متوسط رو به بالا
+     <br>فرانسه: کم
+     <h3>
+        <img style="width: 400px; border-radius: 200px;" src="Images/mani.jpg" alt="my photo" title="mani photo">
+        <p>
+        <a href="maaani.html">private quotes
+
+        </a>
+        </p>
+     </h3>
+     <h4>My favorite sites
+        <ol>
+            <li><a href="https://maktabkhooneh.org/">مکتب خونه</a>
+            </li>
+            <li><a href="https://www.aparat.com/">Aparat</a></li>
+            <li><a href="https://www.filimo.com/">Filimo</a></li>
+            <li><a href="https://www.w3schools.com/">W3schools</a></li>
+        </ol>
+     </h4>
+  </body>
+  <style>
+    img {
+        width: 100px;
+    }
+    body {
+        background-color: lightblue;
+        text-align: center;
+    }
+   
+    
+   
+  </style>
+ <!-- This is a comment -->
+ 
+</html>
